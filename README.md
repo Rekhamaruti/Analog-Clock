@@ -5,7 +5,7 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
-<h2>Features:</h2>
+<h2>Features:</h2> 
 <ul>
   <li>Real-Time Display: The clock updates in real-time to show the current time.</li>
   <li>Responsive Design: The clock adjusts its size based on the screen resolution, ensuring it looks great on both desktop and mobile devices.</li>
